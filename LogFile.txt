@@ -1,0 +1,23 @@
+ERROR! Bad allocation
+File: /home/danchik/Danchik/С++/exception/main.cpp
+Function: void First_test_func()
+Line: 36
+Code: -1
+....
+ERROR! Logic error
+File: /home/danchik/Danchik/С++/exception/main.cpp
+Function: void Second_test_func()
+Line: 49
+Code: -3
+....
+ERROR! Something strange is happening
+File: /home/danchik/Danchik/С++/exception/main.cpp
+Function: void Third_test_func()
+Line: 64
+Code: -10
+....
+ERROR! Out of range
+File: /home/danchik/Danchik/С++/exception/main.cpp
+Function: void Last_test_func()
+Line: 71
+Code: -2
